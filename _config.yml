@@ -1,6 +1,6 @@
 # Site
 name: 'bit by bit'
-description: 'Bit by bit is a blog on computer engineering and many other things.'
+description: 'Bit by bit is a blog on computer engineering and many other things'
 logo: 'assets/images/logo.png'
 favicon: 
 baseurl: ''
