@@ -3,16 +3,13 @@ layout: post
 title: Welcome!
 author: Eujin
 categories:
-  - welcome
-  - about
+  - ETC
 image: >-
   
 tags:
   - winter
 published: true
 ---
-Welcome to my blog!
-
-
-## Welcome to My Blog
+W
+## elcome to My Blog
 
