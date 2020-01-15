@@ -3,7 +3,7 @@ layout: post
 title: Welcome!
 author: Eujin
 categories:
-  - ETC
+  - others
 image: >-
   
 tags:
