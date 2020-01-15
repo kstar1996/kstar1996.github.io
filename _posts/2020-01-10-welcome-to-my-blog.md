@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Welcome!
+title:  "Welcome!"
 author: Eujin Kim
-categories: [others]
-tags:[sticky]
-published: true
+categories: [ others ]
+image: 
+tags: [sticky]
 ---
 
 W
