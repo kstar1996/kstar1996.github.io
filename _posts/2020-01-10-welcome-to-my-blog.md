@@ -2,13 +2,11 @@
 layout: post
 title: Welcome!
 author: Eujin Kim
-categories:
-  - others
-image: >-
-  
-tags:sticky
+categories: [others]
+tags:[sticky]
 published: true
 ---
+
 W
 # elcome to My Blog
 
