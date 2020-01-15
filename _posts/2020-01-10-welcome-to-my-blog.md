@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome!
-author: Eujin
+author: Eujin Kim
 categories:
   - others
 image: >-
