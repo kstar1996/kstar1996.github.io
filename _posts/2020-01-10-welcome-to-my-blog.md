@@ -7,7 +7,6 @@ categories:
 image: >-
   
 tags:
-  - winter
 published: true
 ---
 W
