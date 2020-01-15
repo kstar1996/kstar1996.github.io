@@ -6,7 +6,7 @@ categories:
   - others
 image: >-
   
-tags:
+tags:sticky
 published: true
 ---
 W
