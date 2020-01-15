@@ -2,7 +2,7 @@
 layout: post
 title:  "Nothing Much"
 author: Eujin
-categories: [ Others ]
+categories: [ others ]
 image: 
 tags: [featured]
 ---
