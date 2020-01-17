@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Interview questions"
+title:  "Common Interview Questions"
 author: Eujin Kim
 categories: [ job hunting ]
 image: 
