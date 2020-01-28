@@ -10,7 +10,6 @@ tags: []
 ### Two Sum
 
 ```python
-// An highlighted block
 class Solution:
     def twoSum(self, nums, target):
         h={}
