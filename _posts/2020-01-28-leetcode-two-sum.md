@@ -8,6 +8,7 @@ tags: []
 ---
 
 ### Two Sum
+
 ```python
 class Solution:
     def twoSum(self, nums, target):
@@ -18,4 +19,4 @@ class Solution:
                 h[num]=i
             else:
                 return [h[minus],i]ar foo = 'bar';
-                ```
+```
