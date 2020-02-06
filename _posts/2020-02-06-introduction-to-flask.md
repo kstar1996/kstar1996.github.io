@@ -14,5 +14,5 @@ Flask supports extensions to add many functionalities to your app. Many extensio
 
 I will be skipping the installation part and heading right to the Overview part.
 
-Citation
+
 *“Foreword¶.” _Foreword - Flask Documentation (1.1.x)_, flask.palletsprojects.com/en/1.1.x/foreword/.*
